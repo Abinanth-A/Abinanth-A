@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on vibe coding projects<br>🤝 I’m looking for help with frontend vibe coding tools<br>🌱 I’m currently learning to build a production ready app!<br>⚡ Fun fact : I lost my developer skills when I got into vibe coding 🥲
+🔭 I’m currently working on vibe coding projects<br>🤝 I’m looking for help with backend vibe coding tools<br>🌱 I’m currently learning to build a production ready app!<br>⚡ Fun fact : I lost my developer skills when I got into vibe coding 🥲
 
 
 ## 🌐 Socials:
